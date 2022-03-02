@@ -1,0 +1,2 @@
+# blog_app
+# blog_app Blog app, which can be accessed from a website and via an API from a Swift Application. You can create an account , read and write posts. The database is managed by Flask and sqlite3 in Python.

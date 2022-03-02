@@ -1,0 +1,27 @@
+body {
+    background-color: #354152;
+    text-align: center;
+}
+
+h1, .about, .body {
+    color: black;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.container {
+    background-color: #6d756f;
+    max-width: 50%;
+    max-height: 200px;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+
+a {
+    color: white;
+}
+
+
