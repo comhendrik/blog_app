@@ -14,8 +14,7 @@ All commands are marked with ' '.
 5. These commands are needed to run the server: 
     'export FLASK_APP=database'
     'flask run'
-Your Server is now running and you can access it on your localhost If you want to use it in production you need a production server.
-
+    Your Server is now running and you can access it on your localhost If you want to use it in production you need a production server.
 6.To Start the swift app you need to open the folder SwiftBlogApp in Xcode and press the build button.
 More explanations are in the code.
 
