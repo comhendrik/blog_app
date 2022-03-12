@@ -11,10 +11,7 @@ All commands are marked with ' '.<br/>
 2. Create a Virtual Environment. It worked for me with python3 -m venv * (* is the name of your venv)
 3. Activate the venv. It worked for me with '. */bin/activate'
 4. Install Flask with 'pip install flask'
-5. These commands are needed to run the server: 
-    'export FLASK_APP=database'<br/>
-    'flask run'<br/>
-    Your Server is now running and you can access it on your localhost If you want to use it in production you need a production server.<br/>
+5. These commands are needed to run the server: <br/> 'export FLASK_APP=database'<br/> 'flask run'<br/> Your Server is now running and you can access it on your localhost If you want to use it in production you need a production server.<br/>
 6.To Start the swift app you need to open the folder SwiftBlogApp in Xcode and press the build button.<br/>
 More explanations are in the code.
 
