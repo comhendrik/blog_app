@@ -1,8 +1,8 @@
 # blog_app
-Description:
+Description:<br/>
 Blog app, which can be accessed from a website and via an API from a Swift Application. You can create an account , read and write posts. The database is managed by Flask and sqlite3 in Python.
 
-Why I build this project:
+Why I build this project:<br/>
 Until this project I have always used Firebase as the backend for my iOS apps. I wanted to try something new and researched about building a database with Python and the Tutorial from flask was my starting point. Instead of just building the application from this tutorial, I tried to combine it with my own iOS app. I achieved my goal of creating my own Database and linking it to a Website and an iOS app so that both application are dealing with the same data.
 
 Download:<br/>
