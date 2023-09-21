@@ -7,12 +7,12 @@ Until this project I have always used Firebase as the backend for my iOS apps. I
 
 
 Images:<br/>
--Web:
+-Web:<br/>
 <img src="/ExampleImages/WebHome.png" width="250" height="auto">
 <img src="/ExampleImages/WebCreate.png" width="250" height="auto">
 <img src="/ExampleImages/WebSignIn.png" width="250" height="auto">
 <br/>
--App:
+-App:<br/>
 <img src="/ExampleImages/AppHome.png" width="140" height="auto">
 <img src="/ExampleImages/AppCreate.png" width="140" height="auto">
 <img src="/ExampleImages/AppSignIn.png" width="140" height="auto">
