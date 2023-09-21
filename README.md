@@ -5,6 +5,21 @@ Blog app, which can be accessed from a website and via an API from a Swift Appli
 Why I have built this project:<br/>
 Until this project I have always used Firebase as the backend for my iOS apps. I wanted to try something new and researched about building a database with Python and the Tutorial from flask was my starting point. Instead of just building the application from this tutorial, I tried to combine it with my own iOS app. I achieved my goal of creating my own Database and linking it to a Website and an iOS app so that both application are dealing with the same data.
 
+
+Images:<br/>
+-Web:
+<img src="/ExampleImages/WebHome.png" width="250" height="auto">
+<img src="/ExampleImages/WebCreate.png" width="250" height="auto">
+<img src="/ExampleImages/WebSignIn.png" width="250" height="auto">
+<br/>
+-App:
+<img src="/ExampleImages/AppHome.png" width="140" height="auto">
+<img src="/ExampleImages/AppCreate.png" width="140" height="auto">
+<img src="/ExampleImages/AppSignIn.png" width="140" height="auto">
+<img src="/ExampleImages/AppSuccesfullySignedIn.png" width="140" height="auto">
+
+
+
 Download:<br/>
 All commands are marked with ' '.<br/>
 1. Download it via Github and open the DatabaseWithWebsite Folder in your IDE
